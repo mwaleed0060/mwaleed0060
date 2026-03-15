@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @mwaleed0060
-- 👀 I’m interested to explore programming.
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# AI Tools Open Source Project
 
-<!---
-mwaleed0060/mwaleed0060 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is an open source project where I share simple AI tools and resources.
+
+Purpose:
+- Help developers build AI tools
+- Share useful scripts
+- Improve AI documentation with Claude AI
+
+Anyone can contribute to improve this project.
